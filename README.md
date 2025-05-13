@@ -1,2 +1,2 @@
 # Three-RPI-Projects
-SmR
+Smart-Chess+Thermo+Solar-Upgrade
